@@ -1,0 +1,16 @@
+.jumbotron {
+    background-color: blanchedalmond;
+    color: black;
+    font-weight: bolder;
+}
+
+.navbar {
+    background-color: blanchedalmond;
+}
+
+.headers {
+    font-size: larger;
+    font-weight: bold;
+    margin-left: 2%;
+    margin-top: 2%;
+}
